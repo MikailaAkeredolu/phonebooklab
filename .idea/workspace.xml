@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="356d62ea-6792-4a74-a789-a25c5a802263" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iHn1wqYByMVgLmHcDkCZvFhilH" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="listandmapsdemo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PhoneBookTest">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneBookTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cohort8junitdemo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PhoneBookTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneBookTest.addAllTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cohort8junitdemo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PhoneBookTest" />
+      <option name="METHOD_NAME" value="addAllTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneBookTest.addTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cohort8junitdemo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PhoneBookTest" />
+      <option name="METHOD_NAME" value="addTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneBookTest.hasEntryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cohort8junitdemo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PhoneBookTest" />
+      <option name="METHOD_NAME" value="hasEntryTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneBookTest.reverseLookUpTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cohort8junitdemo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PhoneBookTest" />
+      <option name="METHOD_NAME" value="reverseLookUpTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PhoneBookTest" />
+        <item itemvalue="JUnit.PhoneBookTest.hasEntryTest" />
+        <item itemvalue="JUnit.PhoneBookTest.reverseLookUpTest" />
+        <item itemvalue="JUnit.PhoneBookTest.addTest" />
+        <item itemvalue="JUnit.PhoneBookTest.addAllTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="356d62ea-6792-4a74-a789-a25c5a802263" name="Default Changelist" comment="" />
+      <created>1601573174247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601573174247</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3471" y="83" width="1469" height="772" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1601595393270">
+      <screen x="3360" y="-17" width="1920" height="1057" />
+    </state>
+    <state x="3471" y="83" width="1469" height="772" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.793/3360.-17.1920.1057/1440.-17.1920.1057@3360.-17.1920.1057" timestamp="1601595393270" />
+    <state x="4111" y="214" key="#com.intellij.ide.util.MemberChooser" timestamp="1601583014566">
+      <screen x="3360" y="-17" width="1920" height="973" />
+    </state>
+    <state x="4111" y="234" key="#com.intellij.ide.util.MemberChooser/0.23.1440.795/3360.-17.1920.1057/1440.-17.1920.1057@3360.-17.1920.1057" timestamp="1601575793330" />
+    <state x="4111" y="214" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877/3360.-17.1920.973/1440.-17.1920.1057@3360.-17.1920.973" timestamp="1601583014566" />
+    <state width="1446" height="393" key="GridCell.Tab.0.bottom" timestamp="1601633688434">
+      <screen x="3360" y="-17" width="1920" height="1057" />
+    </state>
+    <state width="1446" height="393" key="GridCell.Tab.0.bottom/0.23.1440.793/3360.-17.1920.1057/1440.-17.1920.1057@3360.-17.1920.1057" timestamp="1601633688434" />
+    <state width="1116" height="415" key="GridCell.Tab.0.bottom/0.23.1440.795/3360.-17.1920.1057/1440.-17.1920.1057@3360.-17.1920.1057" timestamp="1601596527943" />
+    <state width="1627" height="267" key="GridCell.Tab.0.bottom/0.23.1440.798/3360.-17.1920.1057/1440.-17.1920.1057@3360.-17.1920.1057" timestamp="1601589600207" />
+    <state width="1627" height="277" key="GridCell.Tab.0.bottom/0.23.1440.877/3360.-17.1920.973/1440.-17.1920.1057@3360.-17.1920.973" timestamp="1601589035372" />
+    <state width="1446" height="393" key="GridCell.Tab.0.center" timestamp="1601633688433">
+      <screen x="3360" y="-17" width="1920" height="1057" />
+    </state>
+    <state width="1446" height="393" key="GridCell.Tab.0.center/0.23.1440.793/3360.-17.1920.1057/1440.-17.1920.1057@3360.-17.1920.1057" timestamp="1601633688433" />
+    <state width="1116" height="415" key="GridCell.Tab.0.center/0.23.1440.795/3360.-17.1920.1057/1440.-17.1920.1057@3360.-17.1920.1057" timestamp="1601596527942" />
+    <state width="1627" height="267" key="GridCell.Tab.0.center/0.23.1440.798/3360.-17.1920.1057/1440.-17.1920.1057@3360.-17.1920.1057" timestamp="1601589600206" />
+    <state width="1627" height="277" key="GridCell.Tab.0.center/0.23.1440.877/3360.-17.1920.973/1440.-17.1920.1057@3360.-17.1920.973" timestamp="1601589035370" />
+    <state width="1446" height="393" key="GridCell.Tab.0.left" timestamp="1601633688432">
+      <screen x="3360" y="-17" width="1920" height="1057" />
+    </state>
+    <state width="1446" height="393" key="GridCell.Tab.0.left/0.23.1440.793/3360.-17.1920.1057/1440.-17.1920.1057@3360.-17.1920.1057" timestamp="1601633688432" />
+    <state width="1116" height="415" key="GridCell.Tab.0.left/0.23.1440.795/3360.-17.1920.1057/1440.-17.1920.1057@3360.-17.1920.1057" timestamp="1601596527941" />
+    <state width="1627" height="267" key="GridCell.Tab.0.left/0.23.1440.798/3360.-17.1920.1057/1440.-17.1920.1057@3360.-17.1920.1057" timestamp="1601589600205" />
+    <state width="1627" height="277" key="GridCell.Tab.0.left/0.23.1440.877/3360.-17.1920.973/1440.-17.1920.1057@3360.-17.1920.973" timestamp="1601589035369" />
+    <state width="1446" height="393" key="GridCell.Tab.0.right" timestamp="1601633688433">
+      <screen x="3360" y="-17" width="1920" height="1057" />
+    </state>
+    <state width="1446" height="393" key="GridCell.Tab.0.right/0.23.1440.793/3360.-17.1920.1057/1440.-17.1920.1057@3360.-17.1920.1057" timestamp="1601633688433" />
+    <state width="1116" height="415" key="GridCell.Tab.0.right/0.23.1440.795/3360.-17.1920.1057/1440.-17.1920.1057@3360.-17.1920.1057" timestamp="1601596527943" />
+    <state width="1627" height="267" key="GridCell.Tab.0.right/0.23.1440.798/3360.-17.1920.1057/1440.-17.1920.1057@3360.-17.1920.1057" timestamp="1601589600207" />
+    <state width="1627" height="277" key="GridCell.Tab.0.right/0.23.1440.877/3360.-17.1920.973/1440.-17.1920.1057@3360.-17.1920.973" timestamp="1601589035371" />
+  </component>
+</project>
